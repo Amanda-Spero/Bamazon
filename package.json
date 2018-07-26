@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Mandolin77/Bamazon#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "http": "0.0.0",
     "inquirer": "^5.2.0",
     "mysql": "^2.15.0"
   }
