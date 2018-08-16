@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mandolin77/Bamazon.git"
+    "url": "git+https://github.com/Amanda-Spero/Bamazon.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mandolin77/Bamazon/issues"
+    "url": "https://github.com/Amanda-Spero/Bamazon/issues"
   },
-  "homepage": "https://github.com/Mandolin77/Bamazon#readme",
+  "homepage": "https://github.com/Amanda-Spero/Bamazon#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "http": "0.0.0",
